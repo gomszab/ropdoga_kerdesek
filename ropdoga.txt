@@ -17,7 +17,7 @@ table tbody tr {
 }
 élké
 Milyen színű lesz a táblázat sorainak háttérszine?
-
+asdasdas
 10. Az alábbi két css szabályom van:
 table tr {
     background-color: red;

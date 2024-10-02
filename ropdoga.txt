@@ -6,7 +6,7 @@
 6. Megtetszett egy publikus repository githubon, szeretném átmásolni a saját accountomra, hogy jövőbeni módosításaimat fel tudjam pusholni. Mit kell tennem?
 7. Szeretnék visszalépni egy 2-vel ezelőtti commitomra. Milyen lépésekre és információkra van szükségem?
 8. Módosítottam egy fájlt, de rossz branchen vagyok. Hogyan tudom egy új branchre commitolni a változtatásaimat?
-
+"fork próba"
 9. Az alábbi két css szabályom van:
 table tbody tr td {
     background-color: red;

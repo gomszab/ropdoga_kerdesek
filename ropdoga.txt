@@ -15,7 +15,7 @@ sfsfsdfs
 table tbody tr {
     background-color: blue;
 }
-
+élké
 Milyen színű lesz a táblázat sorainak háttérszine?
 
 10. Az alábbi két css szabályom van:

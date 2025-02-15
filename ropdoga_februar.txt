@@ -1,14 +1,14 @@
 1. Mi a kimenete a következő programnak?
 [{
-	nev: 'József'
+	nev: 'József',
 	eletkor: 16
 },
 {
-	nev: 'Ferenc'
+	nev: 'Ferenc',
 	eletkor: 16
 },
 {
-	nev: 'Mihály'
+	nev: 'Mihály',
 	eletkor: 16
 }]
 for(const elem of array){
@@ -17,15 +17,15 @@ for(const elem of array){
 
 2. Mi a kimenete a következő programnak?
 const array = [{
-	nev: 'József'
+	nev: 'József',
 	eletkor: 16
 },
 {
-	nev: 'Ferenc'
+	nev: 'Ferenc',
 	eletkor: 16
 },
 {
-	nev: 'Mihály'
+	nev: 'Mihály',
 	eletkor: 16
 }]
 for(const elem of array){
@@ -34,15 +34,15 @@ for(const elem of array){
 
 3. Mi a kimenete a következő programnak?
 const array = [{
-	nev: 'József'
+	nev: 'József',
 	eletkor: 16
 },
 {
-	nev: 'Ferenc'
+	nev: 'Ferenc',
 	eletkor: 16
 },
 {
-	nev: 'Mihály'
+	nev: 'Mihály',
 	eletkor: 16
 }]
 for(const index of array){
@@ -51,15 +51,15 @@ for(const index of array){
 
 4. Mi a kimenete a következő programnak?
 const array = [{
-	nev: 'József'
+	nev: 'József',
 	eletkor: 16
 },
 {
-	nev: 'Ferenc'
+	nev: 'Ferenc',
 	eletkor: 16
 },
 {
-	nev: 'Mihály'
+	nev: 'Mihály',
 	eletkor: 16
 }]
 for(const elem of array){
@@ -68,15 +68,15 @@ for(const elem of array){
 
 5. Mi a kimenete a következő programnak?
 const array = [{
-	nev: 'József'
+	nev: 'József',
 	eletkor: 16
 },
 {
-	nev: 'Ferenc'
+	nev: 'Ferenc',
 	eletkor: 16
 },
 {
-	nev: 'Mihály'
+	nev: 'Mihály',
 	eletkor: 16
 }]
 for(const elem of array){
